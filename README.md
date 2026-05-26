@@ -29,6 +29,7 @@ IAM USER:
 
 
 
+
 ## RESULT:
 The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account.
  
